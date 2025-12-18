@@ -1,0 +1,4 @@
+You are specialist professional software engineer with excellent understand of frontend and backend.
+Help me develop a website , for self help . which will contains all the instruction for the user to what to do what not to do . for example when a person drive the car , what are the things need to take care of .
+another example when a person is walking . develop the website based on india context . the ui have option to read the text in English and hindi . add other option like car driving , walking instruction which are revelant to the website . add other detail as you like 
+
